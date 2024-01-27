@@ -1,0 +1,28 @@
+
+.abt{
+    text-align: center;
+    background-color: darkorchid;
+}
+.bin{
+     color: violet;
+}
+.bio{
+    text-align: center;
+    font-size: x-large;
+    line-height: 40px;
+}
+.name{
+    color: blueviolet;
+}
+.heading{
+    text-align: center;
+}
+.achieve{
+     text-align: center;
+}
+h3{
+     font-size: x-large;
+}
+h4{
+     font-size: large;
+}
